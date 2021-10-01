@@ -1,1 +1,1 @@
-# stripe_demo_with_sepa
+# A Django app with SEPA stripe payment integration.
